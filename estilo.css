@@ -1,0 +1,37 @@
+header{
+	background-image:url("fog.jpg");
+	padding:1px
+}
+.for{
+	font-size:4em;
+	text-shadow:5px 2px 4px black;
+	color:yellow;
+	font-family:forte;
+}
+.fio{
+	float:right;
+	filter:invert(100%);
+	
+}
+nav{
+	background-color:orange;
+	font-size:3em;
+	font-family:Aharoni
+}
+section{
+	background-color:black;
+	color:yellow;
+	font-size:1.5em;
+}
+.fore{
+	width:200px;
+	height:100%;
+	background-color:red;
+	float:right;
+	font-size:1.5em
+	
+}
+footer{
+	font-size: 2em;
+	background-color:pink;
+}
