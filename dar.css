@@ -26,7 +26,6 @@ ul{
 li{
 	padding:10px
 }
-
 section{
 	padding:1px;
 	background-color:black;
@@ -39,16 +38,3 @@ section{
 }
 a:hover{
 	color:green
-}
-.fore{
-	width:200px;
-	height:100%;
-	background-color:red;
-	float:right;
-	font-size:1.5em
-	
-}
-footer{
-	font-size: 2em;
-	background-color:pink;
-}
